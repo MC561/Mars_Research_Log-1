@@ -1,5 +1,5 @@
 # Final-Project-Items.
-+ Conversions
++ **Conversions**
  - Distance :
    - Nio(ni-o) 1nio or 1n = 5miles
    - Dio(di-o) 1dio or 1d = 1/2n  2d = 1n
@@ -12,7 +12,7 @@
    - Yem(ye-m) 1yem or 1y = 2h
    - Lem(le-m) 1lem or 1l = 1h   2l = 1y
    - Qem(qe-m) 1qem or 1q = 30min  2q = 1l , 4q = 1y
-+ Materials/Items
++ **Materials/Items**
  - Mithril :
      1k of mithril ore has a power output of 1GW. Mithril can also be used in a bomb. Mithril will blow up if the ore's power absorbtion limit is exceeded. The maximum power absorbtion limit of mithril is 1GW. It is recomended to only 
    use 80% of the mithril's power so it only has a 25% chance of blowing up. If you use 100% of the mithril's power it has a 50% chance of blowing up. If mithril blows-up it has a blast radius of 10n. It takes mithril 1y to fully regain its power from any percentage of power it has left.
@@ -20,8 +20,8 @@
      Orthrim can neglect 99% of all physcal attacks from any weapon the only weapon that can distroy orthrim is an energy weapon based on mithril. Orthrim is commonly used for protection and as holding cells.
  - Anti :
      Anti can neglect all gravity and it can also invoke gravity on anything it can be disabled by distroying the core located in the center of the ore.The ore has the texture of mud and it is clear emting a dim red glow.
-+ Weapons/Usable items for the player
-  - The energy sword (Tizona) :
++ **Weapons/Usable items for the player**
+  - The energy sword (_Tizona_) :
       - The sword has two mithril absorbers
       - The sword contains 1d per absorber
       - The sword's hilt is made out of Orthrim and anti
