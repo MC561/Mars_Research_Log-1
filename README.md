@@ -21,7 +21,7 @@
  - Anti :
      Anti can neglect all gravity and it can also invoke gravity on anything it can be disabled by distroying the core located in the center of the ore.The ore has the texture of mud and it is clear emting a dim red glow.
 + **Weapons/Usable items for the player**
-  - The energy sword (_Tizona_) :
+  - The Energy Sword (_Tizona_) :
       - The sword has two mithril absorbers
       - The sword contains 1d per absorber
       - The sword's hilt is made out of Orthrim and anti
