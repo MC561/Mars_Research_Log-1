@@ -51,3 +51,4 @@
            Mode 3 Custom the player can set a custom amount that gravity can affect the sword.
       - The sword can operate for 10 hours while using 80% of both mithril alsorbers
       - The sword can be distroyed with another energy sword      
+https://github.com/MC561/Mithril_Purification_Process
